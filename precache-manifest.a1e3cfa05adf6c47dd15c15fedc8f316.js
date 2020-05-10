@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddcbcefa2066d8898b3a2754bd643251",
+    "revision": "8be5c112a2358f9a84d4ace4592999ab",
     "url": "/kh2fm-randomizer/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kh2fm-randomizer/static/js/2.7b5029b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15af1b96f64c632f2232",
-    "url": "/kh2fm-randomizer/static/js/main.47bbf0ec.chunk.js"
+    "revision": "83e534892d357b58afd3",
+    "url": "/kh2fm-randomizer/static/js/main.9ca75133.chunk.js"
   },
   {
     "revision": "28736f1388f9622fe0dd",
