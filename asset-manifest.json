@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/kh2fm-randomizer/static/js/main.cf9dd94d.chunk.js",
-    "main.js.map": "/kh2fm-randomizer/static/js/main.cf9dd94d.chunk.js.map",
+    "main.js": "/kh2fm-randomizer/static/js/main.469a0ca2.chunk.js",
+    "main.js.map": "/kh2fm-randomizer/static/js/main.469a0ca2.chunk.js.map",
     "runtime-main.js": "/kh2fm-randomizer/static/js/runtime-main.674eae6b.js",
     "runtime-main.js.map": "/kh2fm-randomizer/static/js/runtime-main.674eae6b.js.map",
-    "static/js/2.b3f9866b.chunk.js": "/kh2fm-randomizer/static/js/2.b3f9866b.chunk.js",
-    "static/js/2.b3f9866b.chunk.js.map": "/kh2fm-randomizer/static/js/2.b3f9866b.chunk.js.map",
+    "static/js/2.2a2d88bd.chunk.js": "/kh2fm-randomizer/static/js/2.2a2d88bd.chunk.js",
+    "static/js/2.2a2d88bd.chunk.js.map": "/kh2fm-randomizer/static/js/2.2a2d88bd.chunk.js.map",
     "index.html": "/kh2fm-randomizer/index.html",
-    "precache-manifest.866da5aa64c1055e203097003f38eeac.js": "/kh2fm-randomizer/precache-manifest.866da5aa64c1055e203097003f38eeac.js",
+    "precache-manifest.e41ba6e238d7d9601e2e10fdb59e26c5.js": "/kh2fm-randomizer/precache-manifest.e41ba6e238d7d9601e2e10fdb59e26c5.js",
     "service-worker.js": "/kh2fm-randomizer/service-worker.js",
-    "static/js/2.b3f9866b.chunk.js.LICENSE.txt": "/kh2fm-randomizer/static/js/2.b3f9866b.chunk.js.LICENSE.txt"
+    "static/js/2.2a2d88bd.chunk.js.LICENSE.txt": "/kh2fm-randomizer/static/js/2.2a2d88bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.674eae6b.js",
-    "static/js/2.b3f9866b.chunk.js",
-    "static/js/main.cf9dd94d.chunk.js"
+    "static/js/2.2a2d88bd.chunk.js",
+    "static/js/main.469a0ca2.chunk.js"
   ]
 }
