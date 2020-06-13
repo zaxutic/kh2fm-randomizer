@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82c5e35bcfb8a9ce468fc969b357545f",
+    "revision": "4d95e56ae4432c6a611a5760df7755ea",
     "url": "/kh2fm-randomizer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kh2fm-randomizer/static/css/2.a2026422.chunk.css"
   },
   {
-    "revision": "020fe8c0536bc5569e2f",
+    "revision": "d6cf729e3b45b2ba5ab8",
     "url": "/kh2fm-randomizer/static/css/main.61effe11.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kh2fm-randomizer/static/js/2.2b3eb119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "020fe8c0536bc5569e2f",
-    "url": "/kh2fm-randomizer/static/js/main.a155655e.chunk.js"
+    "revision": "d6cf729e3b45b2ba5ab8",
+    "url": "/kh2fm-randomizer/static/js/main.e51b238f.chunk.js"
   },
   {
     "revision": "28736f1388f9622fe0dd",
