@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kh2fm-randomizer/precache-manifest.478ee4139f1fd0389b51dd7f11ca5faf.js"
+  "/kh2fm-randomizer/precache-manifest.066a67a537048a8c652ce28f40b5f6b5.js"
 );
 
 self.addEventListener('message', (event) => {
