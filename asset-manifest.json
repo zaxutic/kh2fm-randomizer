@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.61effe11.chunk.css",
-    "main.js": "/static/js/main.8f2a3532.chunk.js",
-    "main.js.map": "/static/js/main.8f2a3532.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bfdef457.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bfdef457.js.map",
-    "static/css/2.a2026422.chunk.css": "/static/css/2.a2026422.chunk.css",
-    "static/js/2.99a45ffb.chunk.js": "/static/js/2.99a45ffb.chunk.js",
-    "static/js/2.99a45ffb.chunk.js.map": "/static/js/2.99a45ffb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5d547c430720344f05bedc85ada3f907.js": "/precache-manifest.5d547c430720344f05bedc85ada3f907.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a2026422.chunk.css.map": "/static/css/2.a2026422.chunk.css.map",
-    "static/css/main.61effe11.chunk.css.map": "/static/css/main.61effe11.chunk.css.map",
-    "static/js/2.99a45ffb.chunk.js.LICENSE.txt": "/static/js/2.99a45ffb.chunk.js.LICENSE.txt"
+    "main.css": "/kh2fm-randomizer/static/css/main.61effe11.chunk.css",
+    "main.js": "/kh2fm-randomizer/static/js/main.f60f5882.chunk.js",
+    "main.js.map": "/kh2fm-randomizer/static/js/main.f60f5882.chunk.js.map",
+    "runtime-main.js": "/kh2fm-randomizer/static/js/runtime-main.674eae6b.js",
+    "runtime-main.js.map": "/kh2fm-randomizer/static/js/runtime-main.674eae6b.js.map",
+    "static/css/2.a2026422.chunk.css": "/kh2fm-randomizer/static/css/2.a2026422.chunk.css",
+    "static/js/2.0f803a35.chunk.js": "/kh2fm-randomizer/static/js/2.0f803a35.chunk.js",
+    "static/js/2.0f803a35.chunk.js.map": "/kh2fm-randomizer/static/js/2.0f803a35.chunk.js.map",
+    "index.html": "/kh2fm-randomizer/index.html",
+    "precache-manifest.f1403d77aa5a88a9ecd789970454532d.js": "/kh2fm-randomizer/precache-manifest.f1403d77aa5a88a9ecd789970454532d.js",
+    "service-worker.js": "/kh2fm-randomizer/service-worker.js",
+    "static/css/2.a2026422.chunk.css.map": "/kh2fm-randomizer/static/css/2.a2026422.chunk.css.map",
+    "static/css/main.61effe11.chunk.css.map": "/kh2fm-randomizer/static/css/main.61effe11.chunk.css.map",
+    "static/js/2.0f803a35.chunk.js.LICENSE.txt": "/kh2fm-randomizer/static/js/2.0f803a35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfdef457.js",
+    "static/js/runtime-main.674eae6b.js",
     "static/css/2.a2026422.chunk.css",
-    "static/js/2.99a45ffb.chunk.js",
+    "static/js/2.0f803a35.chunk.js",
     "static/css/main.61effe11.chunk.css",
-    "static/js/main.8f2a3532.chunk.js"
+    "static/js/main.f60f5882.chunk.js"
   ]
 }
