@@ -15,7 +15,7 @@ export const ButtonShare: React.FC = () => {
 
 	const { url, urlWithSettings: urlWithParams } = useSeedURL();
 
-	const link = `https://randomizer.valaxor.com/#${
+	const link = `https://randomizer.valaxor.com${
 		includeSettings ? urlWithParams : url
 	}`;
 
